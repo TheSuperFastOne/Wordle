@@ -5,4 +5,4 @@ Started coding Dec 17; this project was finalized Jan 7.
 
 Updates after Jan 7:
 
-- None
+- Jan 26: Added source code in zip form as Wordle Project.zip
